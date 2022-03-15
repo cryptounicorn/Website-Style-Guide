@@ -1,0 +1,132 @@
+h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Nunito, sans-serif;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Nunito, sans-serif;
+}
+
+body header h1 {
+    margin-left: 20px;
+}
+
+/* Navigation header */
+nav {
+    margin-bottom: 15px;
+}
+nav ul li {
+    display: inline;
+    font-size: 1.5em;
+    margin-right: 10px;
+}
+
+#colors {
+    margin: 10px auto 10px auto;
+    padding: 20px;
+    width: 95%;
+    border: 2px solid black;
+}
+
+.flex-box-container {
+    display: flex;
+    flex-direction: row;
+    flex: wrap;
+    padding: 20px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.color-box {
+    padding: 20px;
+    width: 35%;
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+#cool-blue {
+    background-color: #2d5dcc;
+    color: white;
+}
+
+#pink {
+    background-color: #d957d9;
+}
+
+#mint-green {
+    background-color: #4fe0b0;
+}
+
+#beige {
+    background-color: #efd9ca;
+}
+
+/* Fonts section */
+
+#fonts {
+    margin: 10px auto 5px auto;
+    padding: 20px;
+    width: 95%;
+    border: 2px solid black;
+}
+
+#textbox1 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+#work-sans-bold {
+    font-weight: bold;
+}
+
+#work-sans-italic {
+    font-style: italic;
+}
+
+#textbox2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+#poppins-bold {
+    font-weight: bold;
+}
+
+#poppins-italic {
+    font-style: italic;
+}
+
+#textbox3 {
+    font-family: Nunito, sans-serif;
+}
+
+#nunito-bold {
+    font-weight: bold;
+}
+
+#nunito-italic {
+    font-style: italic;
+}
+
+/* Text styles section */
+
+#text-styles {
+    margin: 10px auto 10px auto;
+    padding: 20px;
+    width: 95%;
+    border: 2px solid black;
+}
+
+
